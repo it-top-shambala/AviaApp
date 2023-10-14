@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AviaApp.Lib", "AviaApp.Lib\AviaApp.Lib.csproj", "{BE26535A-A42A-4167-B911-B335A2B45472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AviaApp.Lib.Test", "AviaApp.Lib.Test\AviaApp.Lib.Test.csproj", "{CA906051-AB6C-4861-B303-D0A941FBCBE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE26535A-A42A-4167-B911-B335A2B45472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE26535A-A42A-4167-B911-B335A2B45472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE26535A-A42A-4167-B911-B335A2B45472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE26535A-A42A-4167-B911-B335A2B45472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA906051-AB6C-4861-B303-D0A941FBCBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA906051-AB6C-4861-B303-D0A941FBCBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA906051-AB6C-4861-B303-D0A941FBCBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA906051-AB6C-4861-B303-D0A941FBCBE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

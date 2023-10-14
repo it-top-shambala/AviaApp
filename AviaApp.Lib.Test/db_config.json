@@ -1,0 +1,7 @@
+﻿{
+  "Host": "localhost",
+  "Username": "postgres",
+  "Password": "1234",
+  "Database": "avia_db",
+  "Schema": "test"
+}

@@ -1,0 +1,11 @@
+﻿CREATE DATABASE avia_db;
+CREATE SCHEMA test;
+
+CREATE TABLE table_schedules (
+    id SERIAL NOT NULL PRIMARY KEY,
+    flight TEXT NOT NULL,
+    departure TIMESTAMP WITH TIME ZONE NOT NULL,
+    arrival TIMESTAMP WITH TIME ZONE NOT NULL
+);
+
+
